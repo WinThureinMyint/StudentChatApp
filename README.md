@@ -28,7 +28,7 @@
 - Firebase
 >We used a firebase server for our instant messaging and authentication. This will require a google account. You can include firebase in the project by going to tools in android studio, clicking firebase, select connect to firebase. Then sign in and follow the prompts. When we have a firebase account set up, got to console, select authentication and click email. Now go to database and select realtime database. You will need to create a single node named Groups.
 
-Documentation for mySQL setup can be found in HTTPS Request Servlets Project folder
+- Documentation for mySQL setup can be found in HTTPS Request Servlets Project folder
 
 ## Manual 
 1. Build the Servlet REST APIi
