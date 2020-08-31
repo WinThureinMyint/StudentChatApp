@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+
+
+
+	<servlet>
+		<servlet-name>UserServlet</servlet-name>
+		<servlet-class>edu.qc.cs.UserServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>GetMessagesServlet</servlet-name>
+		<servlet-class>edu.qc.cs.GetMessagesServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>ActiveUserServlet</servlet-name>
+		<servlet-class>edu.qc.cs.ActiveUserServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>OfflineUserServlet</servlet-name>
+		<servlet-class>edu.qc.cs.OfflineUserServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>UserServlet</servlet-name>
+		<url-pattern>/UserServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet-mapping>
+		<servlet-name>GetMessagesServlet</servlet-name>
+		<url-pattern>/GetMessagesServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ActiveUserServlet</servlet-name>
+		<url-pattern>/ActiveUserServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>OfflineUserServlet</servlet-name>
+		<url-pattern>/OfflineUserServlet</url-pattern>
+	</servlet-mapping>
+	
+</web-app>    
