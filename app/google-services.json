@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315639192399",
+    "firebase_url": "https://studentchatapss.firebaseio.com",
+    "project_id": "studentchatapss",
+    "storage_bucket": "studentchatapss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315639192399:android:af85dfdf0a379f58c4033a",
+        "android_client_info": {
+          "package_name": "com.example.studentchatapss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315639192399-pjg79816ssqmoceaduuul7b65299pqo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentchatapss",
+            "certificate_hash": "9dba3d1eb9c4daf4fe98b18c6139d2f26b7b9bbc"
+          }
+        },
+        {
+          "client_id": "315639192399-g5h6f4i4tijrgiveei6uitl8apovnqd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZURodS9TgnVQxJwQ2g37kW49bhmmHgTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315639192399-g5h6f4i4tijrgiveei6uitl8apovnqd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
