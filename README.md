@@ -1,5 +1,5 @@
 # StudentChatApp
- Android chat application for City University Of NewYork student.
+It's the Android chat application for City University Of NewYork students. It will help to flows information efficiently between classmates by sharing the materials, questions and answers, class announcements, study buddy, projects coordination, and resources. There will be a class moderator who can validify the student and approve the post. The chat room will be created by the class ID from CUNYFirst website.ent 
 
 ## Features
 
